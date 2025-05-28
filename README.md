@@ -43,6 +43,6 @@ A web-based Ethereum smart contract template generator and deployment tool. Easi
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/smart-contract-template-generator.git
+git clone https://github.com/akbarnaeem/smart-contract-template-generator.git
 cd smart-contract-template-generator
 
